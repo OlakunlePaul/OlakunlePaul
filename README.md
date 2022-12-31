@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OlakunlePaul
-- 👀 I’m interested in programming and Web development
+- 👀 I’m confident in programming and Web development
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on any platform that needs my support
 - 📫 How to reach me through olawaleolalekan33@gmail.com
