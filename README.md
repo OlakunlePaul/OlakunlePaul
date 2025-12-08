@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OlakunlePaul
+- 👋 Hi, I’m Paul Olakunle Olagboye
 - 👀 I’m a Full stack AI and Software Engineer
 - 💞️ I’m looking to collaborate on any platform that needs my support
 - 📫 How to reach me through olagboyepaul5@gmail.com
